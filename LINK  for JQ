@@ -1,0 +1,13 @@
+uncompressed:
+
+Just copy and paste it your .js File and the end 
+<script
+  src="https://code.jquery.com/jquery-3.3.1.js"
+  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+  crossorigin="anonymous"></script>
+  
+  or 
+  
+  download the Libary cdn and copy it to the same path where your .js file exists
+  link for Downloading :
+  https://code.jquery.com/
